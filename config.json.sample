@@ -1,0 +1,5 @@
+{
+    "TOKEN": "insert your Telegram token here",
+    "lastfm_apikey"   : "insert your last.fm api key",
+    "lastfm_apisecret": "insert your last.fm api secret" 
+}
